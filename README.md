@@ -24,12 +24,13 @@ Herramienta integral para la transformación de coordenadas geodésicas en Argen
 
 * **Web App:** [transcoordarg.gactopo1.serv00.net](https://transcoordarg.gactopo1.serv00.net)
 * **MDT Online:** [gactopo1.github.io/mdt](https://gactopo1.github.io/mdt)
-* **Repositorios:** * [Código Web](https://github.com/gactopo1/transcoordarg)
+* **Repositorios:**
+    * [Código Web](https://github.com/gactopo1/transcoordarg)
     * [Versión Excel](https://github.com/gactopo1/Libros-de-Excel)
     * [Versión Android](https://github.com/gactopo1/transcoordArgAndroid)
 * **Descargas Directas:**
-    * [📥 Libro Excel (.xlsm)](https://github.com/gactopo1/Libros-de-Excel/blob/main/TransCoordArg.xlsm)
-    * [📥 Android APK](https://github.com/gactopo1/transcoordArgAndroid/blob/main/transcoordarg.apk)
+    * [📥 Libro Excel (.xlsm)](https://github.com/gactopo1/Libros-de-Excel/blob/main/TransCoordArg.xlsm?raw=true)
+    * [📥 Android APK](https://github.com/gactopo1/transcoordArgAndroid/blob/main/transcoordarg.apk?raw=true)
 
 ---
 
@@ -37,16 +38,16 @@ Herramienta integral para la transformación de coordenadas geodésicas en Argen
 Colección de proyecciones y sus ecuaciones matemáticas implementadas en VBA. Incluye proyecciones Azimutales, Cilíndricas, Cónicas, Pseudo-variantes, Retroazimutales, Space Maps y misceláneas.
 
 * **Repositorio:** [Libros de Excel](https://github.com/gactopo1/Libros-de-Excel)
-* **Descarga:** [📥 Proyecciones con código EPSG (.xlsm)](https://github.com/gactopo1/Libros-de-Excel/blob/main/Proyecciones%20con%20codigo%20EPSG.xlsm)
+* **Descarga:** [📥 Proyecciones con código EPSG (.xlsm)](https://github.com/gactopo1/Libros-de-Excel/blob/main/Proyecciones%20con%20codigo%20EPSG.xlsm?raw=true)
 
 ---
 
 ### 📐 Transformación de Datum
 Implementación de algoritmos para el cambio de sistemas de referencia:
 
-* **Molodensky & Molodensky Reducido:** (3 parámetros). [Descargar Excel](https://github.com/gactopo1/Libros-de-Excel/blob/main/Transformaci%C3%B3n%20de%20Datum%20por%20Molodensky.xlsm)
-* **Bursa-Wolf:** (7 parámetros). [Descargar Excel](https://github.com/gactopo1/Libros-de-Excel/blob/main/Transformaci%C3%B3n%20de%20Datum%20y%20calculo%20de%20parametros%20-%20Bursa-Wolf.xlsm)
-* **Helmert:** (10 parámetros). [Descargar Excel](https://github.com/gactopo1/Libros-de-Excel/blob/main/Transformaci%C3%B3n%20de%20Datum%20-%20Helmert%203D%20y%20calculo%20de%20parametros%20-%20Molodensky-Badecas.xlsm)
+* **Molodensky & Molodensky Reducido:** [📥 Descargar Excel](https://github.com/gactopo1/Libros-de-Excel/blob/main/Transformaci%C3%B3n%20de%20Datum%20por%20Molodensky.xlsm?raw=true)
+* **Bursa-Wolf:** [📥 Descargar Excel](https://github.com/gactopo1/Libros-de-Excel/blob/main/Transformaci%C3%B3n%20de%20Datum%20y%20calculo%20de%20parametros%20-%20Bursa-Wolf.xlsm?raw=true)
+* **Helmert:** [📥 Descargar Excel](https://github.com/gactopo1/Libros-de-Excel/blob/main/Transformaci%C3%B3n%20de%20Datum%20-%20Helmert%203D%20y%20calculo%20de%20parametros%20-%20Molodensky-Badecas.xlsm?raw=true)
 
 ---
 
