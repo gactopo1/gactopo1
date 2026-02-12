@@ -9,8 +9,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-Desarrollo de soluciones especializadas en ingeniería, topografía y sistemas de información geográfica.
-
 * **Web & Fullstack:** PHP, Node.js, Python, JavaScript.
 * **Windows:** Java, C++, Python, Visual Basic (VBA).
 * **Mobile:** Java, Kotlin (Android).
