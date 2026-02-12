@@ -38,7 +38,7 @@ Herramienta integral para la transformación de coordenadas geodésicas en Argen
 Colección de proyecciones y sus ecuaciones matemáticas implementadas en VBA. Incluye proyecciones Azimutales, Cilíndricas, Cónicas, Pseudo-variantes, Retroazimutales, Space Maps y misceláneas.
 
 * **Repositorio:** [Libros de Excel](https://github.com/gactopo1/Libros-de-Excel)
-* **Descarga:** [📥 Proyecciones con código EPSG (.xlsm)]([https://github.com/gactopo1/Libros-de-Excel/blob/main/Proyecciones.xlsm](https://github.com/gactopo1/Libros-de-Excel/blob/main/Proyecciones.xlsm?raw=true)
+* **Descarga:** [📥 Proyecciones.xlsm](https://github.com/gactopo1/Libros-de-Excel/blob/main/Proyecciones.xlsm?raw=true)
 
 ---
 
