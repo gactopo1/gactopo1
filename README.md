@@ -51,6 +51,16 @@ Implementación de algoritmos para el cambio de sistemas de referencia:
 * **Helmert:** [📥 Descargar Excel](https://github.com/gactopo1/Libros-de-Excel/blob/main/Transformaci%C3%B3n%20de%20Datum%20-%20Helmert%203D%20y%20calculo%20de%20parametros%20-%20Molodensky-Badecas.xlsm?raw=true)
 
 ---
+### Docuementos técnicos
+### 🌎 1. Elementos Geométricos de la Esfera y el Elipsoide
+### 🗺️ 2. Introducción a las Proyecciones Cartográficas
+
+* **Repositorio:** [geodesia](https://github.com/gactopo1/geodesia)
+* **Descargas Directas:**
+   * [📥 Descargar PDF Técnico (.pdf)](https://github.com/gactopo1/geodesia/blob/main/Elementos-geométricos-de-la-esfera-y-el-elipsoide.pdf?raw=true)
+   * [📥 Descargar Introducción a Proyecciones (.pdf)](https://github.com/gactopo1/geodesia/blob/main/Introducción-a-las-proyecciones.pdf?raw=true)
+  
+---
 
 ## 📫 Contacto
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gerardoadolfocuello@gmail.com) 
